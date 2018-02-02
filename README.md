@@ -35,7 +35,7 @@ Description
 
 This applications demonstrates how to setup a RESTful API using NodeJS with Angular 2 Frontend. The application features a products view and ability of the user to add the product to cart.
 
-Installation
+# Installation
 
 Install all dependencies in package.json file. This can be done by navigating to the root directory in the command line interface and running the following command:
 # $ npm install
