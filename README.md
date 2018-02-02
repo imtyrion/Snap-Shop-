@@ -22,9 +22,9 @@ Should document the code and use compodoc for docs generation.
 README.md on your repo should have description, functions and setup instructions about web application.
 
 -------------------------------------------------------------------------------------------------------------------------------------
-Snap Shop Application
+# Snap Shop Application
 
-This is an retail application demonstrating the components needed for a Single Page Application using MongoDB, ExpressJS, Angular 2, and NodeJS.
+# This is an retail application demonstrating the components needed for a Single Page Application using MongoDB, ExpressJS, Angular 2, and NodeJS.
 
 Requirements
 
@@ -38,25 +38,25 @@ This applications demonstrates how to setup a RESTful API using NodeJS with Angu
 Installation
 
 Install all dependencies in package.json file. This can be done by navigating to the root directory in the command line interface and running the following command:
-$ npm install
-$ npm angular- material
+# $ npm install
+# $ npm angular- material
 
 
 Next, install all of the Angular 2 development dependencies in package.json file:
 
-$ cd snapshop/
+# $ cd snapshop/
 
-$ npm install
+# $ npm install
 // add your npm installs required
 
 Next, install all of the server dependencies in package.json file:
 
 
-$ cd snapshop-server/
+# $ cd snapshop-server/
 
-$ npm install express --save 
+# $ npm install express --save 
 
-$ npm install mongoose 
+# $ npm install mongoose 
 
 
 Installation is complete. Navigate to the root directory and then:  
@@ -64,26 +64,26 @@ Production
 
 -- In root directory(in snapshop_server):
 
-$ npm run start
+# $ npm run start
 
 -- Access production server at: http://localhost:3000
 
 Development
 
-$ cd client/
-$ ng serve
+# $ cd client/
+# $ ng serve
 -- In another window, from root directory run:
 
-$ npm start
+# $ npm start
 -- Access development server at: http://localhost:4200
 -- Access API at: http://localhost:3000
 
 
-Contributors
-AJ
-Jigar
-Hiren
-Pranesh
-Tarangini
+# Contributors
+# Anjaneya Naik
+# Jigar
+# Hiren
+# Pranesh
+# Tarangini
 
 No license.
