@@ -24,7 +24,7 @@ README.md on your repo should have description, functions and setup instructions
 -------------------------------------------------------------------------------------------------------------------------------------
 # Snap Shop Application
 
-# This is an retail application demonstrating the components needed for a Single Page Application using MongoDB, ExpressJS, Angular 2, and NodeJS.
+# This is a retail application demonstrating the components needed for a Single Page Application using MongoDB, ExpressJS, Angular 2, and NodeJS.
 
 Requirements
 
